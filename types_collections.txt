@@ -1,0 +1,6 @@
+| Type      |  Description                             |  Examples                             |
+| --------- | ---------------------------------------- | ------------------------------------- |
+| List      | Ordered collection (can have duplicates) |  ArrayList , LinkedList               |
+| Set       | No duplicates allowed                    |  HashSet , LinkedHashSet ,  TreeSet   |
+| Queue     | FIFO (First In, First Out)               |  PriorityQueue ,  LinkedList          |
+| Map       | Key-Value pairs                          |  HashMap , TreeMap ,  LinkedHashMap   |
