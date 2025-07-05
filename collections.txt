@@ -1,0 +1,8 @@
+Collections are containers (like boxes) that hold multiple objects together.
+Think of them like:
+
+A list of names
+
+A set of unique IDs
+
+A map of keys and values
